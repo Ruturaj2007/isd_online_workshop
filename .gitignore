@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Screenshots written by the Editor / MCP capture tools
+/Captures/
+/[Aa]ssets/[Ss]creenshots/
